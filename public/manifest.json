@@ -1,0 +1,22 @@
+{
+  "short_name": "",
+  "start_url": ".",
+  "homepage": "./",
+  "name": "",
+  "launch_path": "/public/index.html",
+  "icons": [
+    {
+      "src": "/images/logo.svg",
+      "type": "image/svg",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/images/logo.svg",
+      "type": "image/svg",
+      "sizes": "512x512"
+    }
+  ],
+  "display": "browser",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
